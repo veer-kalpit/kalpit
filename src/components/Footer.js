@@ -2,7 +2,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import { MailchimpForm } from "./MailchimForm";
 import logo from "../Assets/img/Logo(KT)1.png";
 import navIcon1 from "../Assets/img/nav-icon1.svg";
-import navIcon2 from "../Assets/img/nav-icon2.svg";
+import navIcon2 from "../Assets/img/git.svg";
 import navIcon3 from "../Assets/img/nav-icon3.svg";
 
 export const Footer = () => {
@@ -19,7 +19,7 @@ export const Footer = () => {
               <a href="https://www.linkedin.com/in/kalpit-thakur-9158a7242/">
                 <img src={navIcon1} alt=""></img>
               </a>
-              <a href="https://www.facebook.com/">
+              <a href="https://github.com/veer-kalpit">
                 <img src={navIcon2} alt=""></img>
               </a>
               <a href="https://www.instagram.com/veer_kalpit/">
