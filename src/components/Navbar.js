@@ -72,10 +72,10 @@ export const NavBar = () => {
                 <img src={navIcon1} alt=""></img>
               </a>
               <a href="https://www.instagram.com/veer_kalpit/">
-                <img src={navIcon2} alt=""></img>
+                <img src={navIcon3} alt=""></img>
               </a>
               <a href="https://www.facebook.com/">
-                <img src={navIcon3} alt=""></img>
+                <img src={navIcon2} alt=""></img>
               </a>
             </div>
             <button className="vvd" onClick={() => console.log("Connect")}>

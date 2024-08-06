@@ -20,10 +20,10 @@ export const Footer = () => {
                 <img src={navIcon1} alt="Icon" />
               </a>
               <a href="https://www.instagram.com/veer_kalpit/">
-                <img src={navIcon2} alt="Icon" />
+                <img src={navIcon3} alt="Icon" />
               </a>
               <a href="https://www.facebook.com/">
-                <img src={navIcon3} alt="Icon" />
+                <img src={navIcon2} alt="Icon" />
               </a>
             </div>
             <p>Copyright 2024. All Rights Reserved</p>
