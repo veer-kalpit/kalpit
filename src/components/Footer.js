@@ -19,10 +19,11 @@ export const Footer = () => {
               <a href="www.linkedin.com/in/kalpit-thakur-9158a7242">
                 <img src={navIcon1} alt="Icon" />
               </a>
-              <a href="https://www.instagram.com/veer_kalpit/">
+   
+              <a href=" https://www.facebook.com/">
                 <img src={navIcon2} alt="Icon" />
               </a>
-              <a href="https://www.facebook.com/">
+              <a href="https://www.instagram.com/veer_kalpit/">
                 <img src={navIcon3} alt="Icon" />
               </a>
             </div>
