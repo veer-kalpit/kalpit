@@ -34,7 +34,12 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                Programing Languages.<br></br> C, JAVA, JAVASCRIPT
+                Programing Languages.<br></br> C, JAVA, JAVASCRIPT <br></br>
+                Web Development<br></br>HTML, CSS<br></br>Communication skills
+                <br></br>Verbal Communication, Written Communication, Client
+                Communication<br></br>Problem Solving skills<br></br>Analytical
+                Thinking, Creative Problem Solving, Troubleshooting<br></br>Soft
+                skills<br></br>Teamwork, Leadership, Adaptability
               </p>
               <Carousel
                 responsive={responsive}
