@@ -71,19 +71,11 @@ export const NavBar = () => {
               <a href="www.linkedin.com/in/kalpit-thakur-9158a7242">
                 <img src={navIcon1} alt=""></img>
               </a>
-<<<<<<< HEAD
-              <a href="https://www.instagram.com/veer_kalpit/">
-                <img src={navIcon3} alt=""></img>
-              </a>
-              <a href="https://www.facebook.com/">
-                <img src={navIcon2} alt=""></img>
-=======
               <a href="https://www.facebook.com/">
                 <img src={navIcon2} alt=""></img>
               </a>
               <a href="https://www.instagram.com/veer_kalpit/">
                 <img src={navIcon3} alt=""></img>
->>>>>>> a1a8a02c2f7593fc4410d7dab025a0707bfaa681
               </a>
             </div>
             <button className="vvd" onClick={() => console.log("Connect")}>
