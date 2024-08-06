@@ -71,10 +71,10 @@ export const NavBar = () => {
               <a href="www.linkedin.com/in/kalpit-thakur-9158a7242">
                 <img src={navIcon1} alt=""></img>
               </a>
-              <a href="https://www.instagram.com/veer_kalpit/">
+              <a href="https://www.facebook.com/">
                 <img src={navIcon2} alt=""></img>
               </a>
-              <a href="https://www.facebook.com/">
+              <a href="https://www.instagram.com/veer_kalpit/">
                 <img src={navIcon3} alt=""></img>
               </a>
             </div>
