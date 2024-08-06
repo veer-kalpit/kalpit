@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kalpit/static/css/main.2beb8160.css",
-    "main.js": "/kalpit/static/js/main.bb30705e.js",
+    "main.css": "/kalpit/static/css/main.48ad7201.css",
+    "main.js": "/kalpit/static/js/main.d7b4c2ac.js",
     "static/js/453.aabbaea5.chunk.js": "/kalpit/static/js/453.aabbaea5.chunk.js",
     "static/media/color-sharp.png": "/kalpit/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/kalpit/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -24,12 +24,12 @@
     "index.html": "/kalpit/index.html",
     "static/media/nav-icon1.svg": "/kalpit/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/kalpit/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.2beb8160.css.map": "/kalpit/static/css/main.2beb8160.css.map",
-    "main.bb30705e.js.map": "/kalpit/static/js/main.bb30705e.js.map",
+    "main.48ad7201.css.map": "/kalpit/static/css/main.48ad7201.css.map",
+    "main.d7b4c2ac.js.map": "/kalpit/static/js/main.d7b4c2ac.js.map",
     "453.aabbaea5.chunk.js.map": "/kalpit/static/js/453.aabbaea5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2beb8160.css",
-    "static/js/main.bb30705e.js"
+    "static/css/main.48ad7201.css",
+    "static/js/main.d7b4c2ac.js"
   ]
 }
