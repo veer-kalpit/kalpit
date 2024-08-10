@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kalpit/static/css/main.3b4c560c.css",
+    "main.css": "/kalpit/static/css/main.52559d33.css",
     "main.js": "/kalpit/static/js/main.75256721.js",
     "static/js/453.05659abd.chunk.js": "/kalpit/static/js/453.05659abd.chunk.js",
     "static/media/color-sharp.png": "/kalpit/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -24,12 +24,12 @@
     "static/media/nav-icon3.svg": "/kalpit/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/kalpit/index.html",
     "static/media/nav-icon1.svg": "/kalpit/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.3b4c560c.css.map": "/kalpit/static/css/main.3b4c560c.css.map",
+    "main.52559d33.css.map": "/kalpit/static/css/main.52559d33.css.map",
     "main.75256721.js.map": "/kalpit/static/js/main.75256721.js.map",
     "453.05659abd.chunk.js.map": "/kalpit/static/js/453.05659abd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b4c560c.css",
+    "static/css/main.52559d33.css",
     "static/js/main.75256721.js"
   ]
 }
