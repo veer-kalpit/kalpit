@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import headerImg from "../Assets/img/Me.png";
+// import headerImg from "../Assets/img/Me.png";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -86,7 +86,7 @@ export const Banner = () => {
               )}
             </TrackVisibility>
           </Col>
-          <Col xs={12} md={6} xl={5}>
+          {/* <Col xs={12} md={6} xl={5}>
             <TrackVisibility>
               {({ isVisible }) => (
                 <div
@@ -96,9 +96,9 @@ export const Banner = () => {
                 >
                   <img src={headerImg} alt="Header Img" />
                 </div>
-              )}
-            </TrackVisibility>
-          </Col>
+              )} */}
+            {/* </TrackVisibility>
+          </Col> */}
         </Row>
       </Container>
     </section>
